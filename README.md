@@ -1,3 +1,3 @@
 # Programação Estatística
 
-Códigos do curso de programação estatística da UFSCar EM 2025/2
+Códigos do curso de programação estatística da UFSCar em 2025/2
